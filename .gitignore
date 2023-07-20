@@ -1,0 +1,20 @@
+# Node.js and npm
+node_modules/
+npm-debug.log
+.env
+
+# Logs
+logs/
+
+# Dependency directories
+public/build/
+dist/
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# macOS Finder files
+.DS_Store
